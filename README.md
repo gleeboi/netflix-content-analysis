@@ -56,7 +56,7 @@ Business Insights
 - Statistical exploration
 - Business insight generation
 
-## Technoligies
+## Technologies
 - Python
 - Pandas
 - NumPy
