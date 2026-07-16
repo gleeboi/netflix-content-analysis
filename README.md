@@ -135,3 +135,29 @@ Visualization
 
 Insights Generation
 
+---
+
+## Skills Demonstrated
+
+- Data cleaning
+- Exploratory analysis
+- Filtering datasets
+- Statistical analysis
+- Data visualization
+- Pattern discovery
+
+---
+
+## Technologies
+
+Python
+
+Pandas
+
+NumPy
+
+Matplotlib
+
+Seaborn
+
+Jupyter Notebook
