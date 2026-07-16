@@ -1,3 +1,9 @@
+## 🌐 Portfolio
+
+View the complete portfolio here:
+
+**https://gleeboi.github.io/**
+
 # Netflix Content Analysis: Exploring Movie Trends of the 1990s
 
 # README Overview
